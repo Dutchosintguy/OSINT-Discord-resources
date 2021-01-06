@@ -20,6 +20,12 @@ Discord official website: https://discord.com/
 
 5. [Disboard](https://disboard.org/search) > Discord server search engine
 
+6. [Unfurl](https://dfir.blog/unfurl/) > If you have any URLs of interest from Discord, you can potentially extract additional timestamp info. Each Discord ID (for user, channel, server, or file attachment) has an embedded timestamp that shows when that object was created.
+
+> Unfurl can parse it (example): https://dfir.blog/unfurl/?url=https://discordapp.com/channels/427876741990711298/537760691302563843/643183730227281931
+
+*h/t [Ryan Benson](https://twitter.com/_RyanBenson/status/1346854657272942593)*
+
 
 
 ## Searching using the discord native searchbar
@@ -42,6 +48,7 @@ To narrow down your search, use the following filters along with your search que
 **in:** channels - Results only show messages sent in specified channel.
 
 
+
 ## Get Discord user ID
 
 The steps below describe how to obtain a Discord user ID
@@ -54,9 +61,13 @@ Log into a Discord Channel. Right click your username in chat or channel list. S
 
 *Sometimes you will need to set your account to developer mode first to be able to right-click a username and select Copy ID. Visit: - Settings -> Appearance -> and toggle ON developer mode.*
 
+
+
 ## Check the global Discord uptime status
 
 [Discord status](https://discordstatus.com/) > Check Global discord uptime status for the API, media proxy, push notifications, search, voirce & third party
+
+
 
 ## Discord Wiki
 
