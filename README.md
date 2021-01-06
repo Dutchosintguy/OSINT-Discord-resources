@@ -4,6 +4,10 @@ OSINT Discord resources that may be useful for searching or pivotting on Discord
 Discord official website: https://discord.com/
 
 
+![OSINT Discord logo](https://github.com/Dutchosintguy/OSINT-Discord-resources/blob/main/discord-osint.jpg)
+
+
+
 ## Useful tool links and description
 
 1. [Discordbee](https://discordbee.com/) > Discord server search engine
@@ -43,10 +47,10 @@ Log into a Discord Channel. Right click your username in chat or channel list. S
 
 ## Check the global Discord uptime status
 
-[discord status](https://discordstatus.com/) Check Global discord uptime status for the API, media proxy, push notifications, search, voirce & third party
+[Discord status](https://discordstatus.com/) > Check Global discord uptime status for the API, media proxy, push notifications, search, voirce & third party
 
 ## Discord Wiki
 
-[Discord Wiki](https://discordia.me/en/home) Great in depth wiki about all Discord has to offer. 
+[Discord Wiki](https://discordia.me/en/home) > Great in depth wiki about all Discord has to offer. 
 
 
