@@ -50,7 +50,9 @@ The steps below describe how to obtain a Discord user ID
 For the User ID, go to a user's Profile. You should see three dots on the top-right. Press those dots and you should see the last item on the drop-down menu: 'Copy ID'. Click this to get the ID. Paste in text editor to see the ID.
 
 #### Using the Desktop App
-Log into a Discord Channel. Right click your username in chat or channel list. Select Copy ID. Paste the ID somewhere to see it. *sometimes you will need to set your account to developer mode first to be able to right-click a username and select Copy ID. Visit: - Settings -> Appearance -> and toggle ON developer mode.*
+Log into a Discord Channel. Right click your username in chat or channel list. Select Copy ID. Paste the ID somewhere to see it.
+
+*Sometimes you will need to set your account to developer mode first to be able to right-click a username and select Copy ID. Visit: - Settings -> Appearance -> and toggle ON developer mode.*
 
 ## Check the global Discord uptime status
 
