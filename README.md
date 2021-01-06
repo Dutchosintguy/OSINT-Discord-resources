@@ -24,7 +24,7 @@ Discord official website: https://discord.com/
 
     Unfurl can parse it (example): https://dfir.blog/unfurl/?url=https://discordapp.com/channels/427876741990711298/537760691302563843/643183730227281931
 
-*h/t [Ryan Benson](https://twitter.com/_RyanBenson/status/1346854657272942593)*
+    *h/t [Ryan Benson](https://twitter.com/_RyanBenson/status/1346854657272942593)*
 
 
 
