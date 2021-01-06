@@ -28,12 +28,19 @@ To narrow down your search, use the following filters along with your search que
 
 #### Filters
 **from:** user - Shows results from a specific user.
+
 **mentions:** user - Shows anytime someone mentioned the specified user.
+
 **has:** link, embed or file - Shows messages that contain specified element.
+
 **before:** date - Results only show messages sent before specified date.
+
 **during:** date - Results only show messages sent on specified date.
+
 **after:** date - Results only show messages sent after specified date.
+
 **in:** channels - Results only show messages sent in specified channel.
+
 
 ## Get Discord user ID
 
