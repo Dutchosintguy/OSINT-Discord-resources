@@ -44,7 +44,7 @@ To narrow down your search, use the following filters along with your search que
 
 ## Get Discord user ID
 
-The steps below describe how to obtain a Doscord user ID
+The steps below describe how to obtain a Discord user ID
 
 #### Using the Mobile App
 For the User ID, go to a user's Profile. You should see three dots on the top-right. Press those dots and you should see the last item on the drop-down menu: 'Copy ID'. Click this to get the ID. Paste in text editor to see the ID.
