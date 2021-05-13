@@ -25,6 +25,16 @@ Discord official website: https://discord.com/
     Unfurl can parse it (example): https://dfir.blog/unfurl/?url=https://discordapp.com/channels/427876741990711298/537760691302563843/643183730227281931
 
     *h/t [Ryan Benson](https://twitter.com/_RyanBenson/status/1346854657272942593)*
+    
+7. [Discord Bots](https://top.gg/) > Search for Discord bots
+
+8. [Discord Me](http://discord.me) > Search public Discord servers
+
+9. [Discord portal](http://discordportal.com) > Search discord servers
+
+10. [Discord center](http://discord.center) > Search discord servers
+
+
 
 
 
