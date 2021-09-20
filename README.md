@@ -37,7 +37,9 @@ Discord official website: https://discord.com/
 11. [Discord Snowflake to Timestamp converter](https://pixelatomy.com/snow-stamp/) > Snowflake Timestamp converter
 
 
+## Didcord OSINT attack surface by Sinwindie
 
+[Discord OSINT attack Surface PDF](https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf) > PDF document with attack surface options
 
 
 ## Searching using the discord native searchbar
