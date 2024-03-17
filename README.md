@@ -34,9 +34,11 @@ Discord official website: https://discord.com/
 
 10. [Discord center](http://discord.center) > Search discord servers
 
-11. [Discord Snowflake to Timestamp converter](https://pixelatomy.com/snow-stamp/) > Snowflake Timestamp converter
+11. [DiscoList](http://discolist.net) > Search discord servers
 
-11. [Top.gg](https://top.gg/) > Navigating to https://top.gg/user/ followed by a user's ID can show information about their profile, including bots and servers reviewed on Top.gg, their Discord username, and other information. This information is sometimes perserved after their account is deleted. They must have signed into Top.gg using Discord for this to work, but many Discord users have.
+12. [Discord Snowflake to Timestamp converter](https://pixelatomy.com/snow-stamp/) > Snowflake Timestamp converter
+
+13. [Top.gg](https://top.gg/) > Navigating to https://top.gg/user/ followed by a user's ID can show information about their profile, including bots and servers reviewed on Top.gg, their Discord username, and other information. This information is sometimes perserved after their account is deleted. They must have signed into Top.gg using Discord for this to work, but many Discord users have.
 
 ## Discord OSINT attack surface by Sinwindie
 
